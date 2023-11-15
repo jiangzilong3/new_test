@@ -1,3 +1,0 @@
-- name: Clear Python cache
-  run: |
-    sudo rm -rf /opt/hostedtoolcache/Python*
