@@ -260,4 +260,3 @@ if __name__ == "__main__":
     for user in users:
         send_message(user, accessToken, region, weather, temp, feelsLike, vis, precip, wind_dir, pressure,) #note_ch, note_en
     os.system("pause")
-
